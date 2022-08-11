@@ -1,0 +1,20 @@
+{
+  "name": "asyn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvadorpro1/asyn.git"
+  },
+  "keywords": [],
+  "author": "Salvador Sanchez <salvadorpro1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salvadorpro1/asyn/issues"
+  },
+  "homepage": "https://github.com/salvadorpro1/asyn#readme"
+}
